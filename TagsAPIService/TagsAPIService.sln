@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagsAPIService", "TagsAPIService\TagsAPIService.csproj", "{B422DC79-0172-47F3-B770-8CD205DF9C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagsAPIServiceTests", "TagsAPIServiceTests\TagsAPIServiceTests.csproj", "{83EA7029-785C-424A-9853-7A9EDD7526EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B422DC79-0172-47F3-B770-8CD205DF9C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B422DC79-0172-47F3-B770-8CD205DF9C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B422DC79-0172-47F3-B770-8CD205DF9C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B422DC79-0172-47F3-B770-8CD205DF9C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83EA7029-785C-424A-9853-7A9EDD7526EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EA7029-785C-424A-9853-7A9EDD7526EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EA7029-785C-424A-9853-7A9EDD7526EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EA7029-785C-424A-9853-7A9EDD7526EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3F966D6-EED0-4175-B62A-E92AB7F80101}
+	EndGlobalSection
+EndGlobal
